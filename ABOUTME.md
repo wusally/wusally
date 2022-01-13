@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @wusally
 - 👀 I’m interested in starting a career in software development.
 - 🌱 I’m currently learning Javascript algorithms & data structures.
+- 🚀 I'm planning to complete freeCodeCamp supplemented with other free online resources to ultimately get a junior developer role.
