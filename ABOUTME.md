@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wusally
+- 👀 I’m interested in starting a career in software development.
+- 🌱 I’m currently learning Javascript algorithms & data structures.
